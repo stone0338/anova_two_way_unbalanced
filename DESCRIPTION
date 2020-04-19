@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Package:GraphRobot 
 Title: This package is used to test openCPU
 Version: 0.0.1
@@ -7,3 +8,14 @@ Depends: R (>= 3.4.4)
 License: No
 Encoding: UTF-8
 LazyData: true
+=======
+Package:GraphRobot 
+Title: This package is used to test openCPU
+Version: 0.0.1
+Authors@R: person("Lei", "Wang", email = "first.last@example.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.4)
+License: No
+Encoding: UTF-8
+LazyData: true
+>>>>>>> e9325eaee377dd007ffef6bc2e43f382efb3288d
